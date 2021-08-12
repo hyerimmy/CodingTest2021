@@ -1,5 +1,21 @@
 {
   "files": {
+    "baekjun/10871.py": [
+      {
+        "id": "0e0089f2-2fe7-498b-9d0f-58aaa4acdfae",
+        "line": 16,
+        "version": 348,
+        "index": 281
+      }
+    ],
+    "baekjun/2588.py": [
+      {
+        "id": "95efda91-2938-4aeb-879c-c23f4316e8ba",
+        "line": 12,
+        "version": 344,
+        "index": 153
+      }
+    ],
     "thisIsCodingTest/Q09.py": [
       {
         "id": "a0df02fe-ca58-48a3-bb29-ccf57001d254",
