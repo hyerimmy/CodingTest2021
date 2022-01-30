@@ -2,12 +2,20 @@
 ### https://www.acmicpc.net/problem/1157 ###
 
 import sys
-s = list(sys.stdin.readline().upper())
-print(s)
+s = list(sys.stdin.readline().rstrip().upper())
 
-# count list 생성
-c = [0]*len(s)
+from collections import Counter
+counter = Counter(s)
 
-import collections
-count = collections.Counter(s)
-print(count)
+max_count = -1
+for letter in counter:
+  if counter[letter] > max_count:
+    max_count = counter[letter]
+    max_letter = letter
+
+for letter in counter:
+  if counter[letter] == max_count and letter != max_letter:
+    print("?")
+    quit()
+
+print(max_letter)
