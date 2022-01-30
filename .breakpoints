@@ -1,11 +1,35 @@
 {
   "files": {
+    "baekjun/10809.py": [
+      {
+        "id": "069cb636-5b86-44a6-9211-638be01a2004",
+        "line": 1,
+        "version": 382,
+        "index": 0
+      }
+    ],
     "baekjun/10871.py": [
       {
         "id": "0e0089f2-2fe7-498b-9d0f-58aaa4acdfae",
         "line": 16,
         "version": 348,
         "index": 281
+      }
+    ],
+    "baekjun/1157.py": [
+      {
+        "id": "686535c6-684b-4d73-aafe-be0b46fd02f4",
+        "line": 1,
+        "version": 356,
+        "index": 0
+      }
+    ],
+    "baekjun/11720.py": [
+      {
+        "id": "77dce53a-bd2a-4d5b-8b03-b256382f9da7",
+        "line": 13,
+        "version": 188,
+        "index": 221
       }
     ],
     "baekjun/1546.py": [
@@ -22,6 +46,14 @@
         "line": 12,
         "version": 344,
         "index": 153
+      }
+    ],
+    "stepbystep/11bruteForce/2231.py": [
+      {
+        "id": "6f65102e-ca50-4a21-b7fd-2c7a022e527f",
+        "line": 12,
+        "version": 336,
+        "index": 181
       }
     ],
     "thisIsCodingTest/Q09.py": [
