@@ -48,6 +48,30 @@
         "index": 153
       }
     ],
+    "stepbystep/07/1152.py": [
+      {
+        "id": "a4be235a-75b9-47ba-8e60-77126fa2cce2",
+        "line": 4,
+        "version": 83,
+        "index": 66
+      }
+    ],
+    "stepbystep/07/1316.py": [
+      {
+        "id": "ad4d59f1-1c6d-4942-a8b7-5640da6c1308",
+        "line": 14,
+        "version": 294,
+        "index": 267
+      }
+    ],
+    "stepbystep/07/2908.py": [
+      {
+        "id": "960b0abd-3783-4657-801e-08bf409dfece",
+        "line": 14,
+        "version": 473,
+        "index": 192
+      }
+    ],
     "stepbystep/11bruteForce/2231.py": [
       {
         "id": "6f65102e-ca50-4a21-b7fd-2c7a022e527f",
