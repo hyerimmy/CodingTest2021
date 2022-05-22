@@ -10,10 +10,14 @@ def num(k,n):
     return result
 
 t = int(input())
+result=list()
 
 for i in range(0,t):
   k = int(input())
   n = int(input())
-  print(num(k,n))
+  result.append(num(k,n))
+
+for r in result:
+  print(r)
 
   ## 시간초과
