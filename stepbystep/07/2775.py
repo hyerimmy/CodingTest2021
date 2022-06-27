@@ -20,4 +20,5 @@ for i in range(0,t):
 for r in result:
   print(r)
 
-  ## 시간초과
+## 시간초과 -> pypy로 제출하니까 됨.. 
+##(or 다이나믹프로그래밍 방식 사용)

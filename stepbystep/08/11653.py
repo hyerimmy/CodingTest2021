@@ -14,6 +14,7 @@ def is_prime_num(ipn):
 for k in range(2,n):
   if(is_prime_num(k)):
     prime_list.append(k)
+    print(k)
 
 # print(prime_list)
 
